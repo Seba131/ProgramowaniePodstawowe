@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54d76cfa-355c-424d-8143-f0810a6fbfd3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YnIItUN5M9lLeyWMd57w2WceSB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.StosTablica">
+    <configuration name="StosTablica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="struktury_danych.StosTablica" />
+      <module name="ProgramowaniePodstawowe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="struktury_danych.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tablice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="struktury_danych.Tablice" />
+      <module name="ProgramowaniePodstawowe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="struktury_danych.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StosTablica" />
+        <item itemvalue="Application.Tablice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54d76cfa-355c-424d-8143-f0810a6fbfd3" name="Default Changelist" comment="" />
+      <created>1583571854819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583571854819</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="782" y="91" key="#Notifications" timestamp="1583591635632">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="782" y="91" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1583591635632" />
+    <state x="604" y="130" key="#com.intellij.ide.util.MemberChooser" timestamp="1583589012181">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="604" y="130" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1583589012181" />
+    <state x="579" y="184" key="FileChooserDialogImpl" timestamp="1583591613063">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="579" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1583591613063" />
+    <state x="1011" y="307" key="Github.CreateGistDialog" timestamp="1583591428848">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="1011" y="307" key="Github.CreateGistDialog/0.0.1600.860@0.0.1600.860" timestamp="1583591428848" />
+    <state width="1555" height="222" key="GridCell.Tab.0.bottom" timestamp="1583587424017">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1555" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583587424017" />
+    <state width="1555" height="222" key="GridCell.Tab.0.center" timestamp="1583587424016">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1555" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583587424016" />
+    <state width="1555" height="222" key="GridCell.Tab.0.left" timestamp="1583587424016">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1555" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583587424016" />
+    <state width="1555" height="222" key="GridCell.Tab.0.right" timestamp="1583587424017">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1555" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583587424017" />
+    <state width="1555" height="275" key="GridCell.Tab.1.bottom" timestamp="1583580330877">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1555" height="275" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583580330877" />
+    <state width="1555" height="275" key="GridCell.Tab.1.center" timestamp="1583580330877">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1555" height="275" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1583580330877" />
+    <state width="1555" height="275" key="GridCell.Tab.1.left" timestamp="1583580330877">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1555" height="275" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1583580330877" />
+    <state width="1555" height="275" key="GridCell.Tab.1.right" timestamp="1583580330877">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1555" height="275" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1583580330877" />
+    <state x="600" y="75" key="SettingsEditor" timestamp="1583591585212">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="600" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1583591585212" />
+    <state x="799" y="93" width="672" height="678" key="search.everywhere.popup" timestamp="1583591601093">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="799" y="93" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1583591601093" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="tab[i]" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
