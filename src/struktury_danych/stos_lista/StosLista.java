@@ -12,4 +12,4 @@ public class StosLista {
          //   StosElem elem = new StosElem(int value, )
             }
 
-}
+}// dodawany komentarz
