@@ -12,14 +12,16 @@ public class StosTablica {
     }
 
     public void push(int value) {
+        // powinno obsłużyć wyjątek jeżeli stos pełen
       //  top++;
       //  tab[top] = value;  //inaczej
         tab[++top] = value;
     }
 
     public int pop(){       // odczyt tab i przesuwa top 0 -1
+        // powinno obsłużyć wyjątek jeżeli stos pusty
         int value = tab[top--];
-//        top--; int value = tab[top]; // innaczej
+//        int value = tab[top]; // innaczej
 //        top--;
         return value;
     }
@@ -58,6 +60,7 @@ public class StosTablica {
         System.out.println("Pop: " + stosTablica.pop());
 
         System.out.println("isEmpty: " + stosTablica.isEmpty());
+ 
 
 
     }

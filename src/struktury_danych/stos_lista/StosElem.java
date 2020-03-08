@@ -7,7 +7,7 @@ public class StosElem {
     private StosElem prev;
 
     public StosElem(int value){
-        this.value = value;
+       this.value = value;
         this.prev = prev;
 
     }
