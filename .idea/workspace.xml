@@ -16,7 +16,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2ca2b59-7861-4ca7-af47-37a190abe27d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadania_dom/plik_CSV_zapis_odczyt/BazaDanychMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zadania_dom/plik_CSV_zapis_odczyt/BazaDanychMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +178,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587824982444</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ProgramowaniePodstawowe">
+      <created>1587832104747</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587832104747</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ProgramowaniePodstawowe">
+      <created>1587832161736</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587832161736</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,11 +250,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="742" y="415" width="435" height="216" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1587573474423" />
-    <state x="573" y="77" key="CommitChangelistDialog2" timestamp="1587824980660">
+    <state x="573" y="77" key="CommitChangelistDialog2" timestamp="1587832159095">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="462" y="47" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1583654321244" />
-    <state x="573" y="77" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587824980660" />
+    <state x="573" y="77" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587832159095" />
     <state width="391" height="466" key="DebuggerActiveHint" timestamp="1584098994690">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -407,17 +421,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/zadania_dom/plik_CSV_zapis_odczyt/BazaDanychMain.java</url>
-          <line>65</line>
+          <line>66</line>
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/zadania_dom/plik_CSV_zapis_odczyt/BazaDanychMain.java</url>
-          <line>58</line>
+          <line>59</line>
           <option name="timeStamp" value="73" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/zadania_dom/plik_CSV_zapis_odczyt/BazaDanychMain.java</url>
-          <line>29</line>
+          <line>30</line>
           <option name="timeStamp" value="74" />
         </line-breakpoint>
       </breakpoints>
