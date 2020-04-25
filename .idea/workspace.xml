@@ -192,7 +192,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587832161736</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ProgramowaniePodstawowe">
+      <created>1587832351692</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587832351692</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ProgramowaniePodstawoweu">
+      <created>1587832405670</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587832405670</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,6 +222,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="ProgramowaniePodstawoweu" />
     <MESSAGE value="ProgramowaniePodstawowe" />
     <option name="LAST_COMMIT_MESSAGE" value="ProgramowaniePodstawowe" />
   </component>
@@ -250,11 +265,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="742" y="415" width="435" height="216" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1587573474423" />
-    <state x="573" y="77" key="CommitChangelistDialog2" timestamp="1587832159095">
+    <state x="573" y="77" key="CommitChangelistDialog2" timestamp="1587832579558">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="462" y="47" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1583654321244" />
-    <state x="573" y="77" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587832159095" />
+    <state x="573" y="77" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587832579558" />
     <state width="391" height="466" key="DebuggerActiveHint" timestamp="1584098994690">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

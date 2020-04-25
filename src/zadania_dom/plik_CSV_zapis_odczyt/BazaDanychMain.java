@@ -21,8 +21,10 @@ public class BazaDanychMain {
 
     public static void main(String[] args) {
 
-       String to = String.format("###-###-###");
-       String.format(to, )= "753-444-666";
+        System.out.println("ttttttttttttttttttttttttttttttttttttttttttttttttttt");
+
+ //      String to = String.format("###-###-###");
+ //      String.format(to, )= "753-444-666";
 //        System.out.println(to);
 
 
