@@ -20,9 +20,9 @@ public class BazaDanychMain {
     //  public static String imie;
 
     public static void main(String[] args) {
-//
-//        String to = String.format("###-###-###");
-//      //  String.format(to, )= "753-444-666";
+
+       String to = String.format("###-###-###");
+      // String.format(to, )= "753-444-666";
 //        System.out.println(to);
 
 
