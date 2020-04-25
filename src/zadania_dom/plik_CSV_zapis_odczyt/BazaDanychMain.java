@@ -81,7 +81,7 @@ public class BazaDanychMain {
     private static void zapiszDane() {
 
         try {
-            Files.writeString(Paths.get("plik.sp"), lista.toString(), StandardOpenOption.CREATE); //, StandardOpenOption.APPEND);
+            Files.writeString(Paths.get("plik.csv"), lista.toString(), StandardOpenOption.CREATE); //, StandardOpenOption.APPEND);
             //CStandardOpenOption.CREATE - utwórz nowy plik jesli nie istnieje
 
         } catch (IOException e) {
@@ -95,7 +95,7 @@ public class BazaDanychMain {
             //     List<String> plik = Files.readAllLines(Paths.get("plik.sp"));
             List<String> odczyt;
             // String odczyt;
-            odczyt = Files.readAllLines(Paths.get("plik.sp"));
+            odczyt = Files.readAllLines(Paths.get("plik.csv"));
             String odczytana = odczyt.toString();
             odczytana = odczytana.replace("[", "");
             odczytana = odczytana.replace("]", "");
