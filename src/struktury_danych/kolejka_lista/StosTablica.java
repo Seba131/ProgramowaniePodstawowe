@@ -1,4 +1,4 @@
-package struktury_danych;
+package struktury_danych.kolejka_lista;
 
 public class StosTablica {
 
@@ -60,7 +60,7 @@ public class StosTablica {
         System.out.println("Pop: " + stosTablica.pop());
 
         System.out.println("isEmpty: " + stosTablica.isEmpty());
- 
+
 
 
     }

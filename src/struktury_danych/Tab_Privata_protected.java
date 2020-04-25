@@ -1,4 +1,4 @@
-package struktury_danych.stos_lista;
+package struktury_danych;
 
 public class Tab_Privata_protected {
 

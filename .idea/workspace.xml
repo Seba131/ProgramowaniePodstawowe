@@ -1,27 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ProgramowaniePodstawowe:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f2ca2b59-7861-4ca7-af47-37a190abe27d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/struktury_danych/stos_lista/Tab_Privata_protected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ProgramowaniePodstawowe_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plik.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plik.sp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plik.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/struktury_danych/dwukierunkowa_lista/DwukierunLista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/struktury_danych/dwukierunkowa_lista/DwukierunListaElem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/struktury_danych/kolejka_lista/KolejkaElem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/struktury_danych/kolejka_lista/KolejkaLista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/struktury_danych/stos_lista/StosPustyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania_dom/ProbyA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania_dom/ProbyRobioneWDomu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania_dom/ZadaniaZflimuKurs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania_dom/ZadanieA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania_dom/ZadanieB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania_dom/ZadanieJar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania_dom/okienkowy/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania_dom/okienkowy/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania_dom/plik_CSV_zapis_odczyt/BazaDanych.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania_dom/plik_CSV_zapis_odczyt/BazaDanychMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania_dom/plik_CSV_zapis_odczyt/Danezlozone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania_dom/plik_CSV_zapis_odczyt/Plik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania_dom/plik_CSV_zapis_odczyt/Takson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania_dom/plik_CSV_zapis_odczyt/zadanie1/Zadanie1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania_dom/plik_CSV_zapis_odczyt/zadanie1/Zamowienie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania_dom/poliformizm/przyklad_1/Kon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania_dom/poliformizm/przyklad_1/MainPoliformizm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania_dom/poliformizm/przyklad_1/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania_dom/poliformizm/przyklad_1/Pies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania_dom/poliformizm/przyklad_1/Ssak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadania_dom/poliformizm/przyklad_1/Zwierze.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgramowaniePodstawowe/struktury_danych/StosTablica.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramowaniePodstawowe/struktury_danych/StosTablica.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramowaniePodstawowe/META-INF/ProgramowaniePodstawowe.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramowaniePodstawowe/struktury_danych/StosTablica.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ProgramowaniePodstawowe/struktury_danych/Tablice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramowaniePodstawowe/struktury_danych/Tablice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/struktury_danych/StosTablica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/struktury_danych/StosTablica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/struktury_danych/StosTablica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/struktury_danych/kolejka_lista/StosTablica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/struktury_danych/Tablice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/struktury_danych/Tablice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/struktury_danych/stos_lista/StosElem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/struktury_danych/stos_lista/StosElem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/struktury_danych/stos_lista/StosLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/struktury_danych/stos_lista/StosLista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/struktury_danych/stos_lista/Tab_Privata_protected.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/struktury_danych/Tab_Privata_protected.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="ProgramowaniePodstawowe" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -32,24 +69,34 @@
   <component name="ProjectId" id="1Yo240dh5U7E73sRfmHtxWp62R0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Q\Desktop\git\ProgramowaniePodstawowe\out\artifacts" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="struktury_danych" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StosTablica">
-    <configuration name="StosTablica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="struktury_danych.StosTablica" />
+  <component name="RunManager" selected="Application.BazaDanychMain">
+    <configuration name="BazaDanychMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadania_dom.plik_CSV_zapis_odczyt.BazaDanychMain" />
       <module name="ProgramowaniePodstawowe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="struktury_danych.*" />
+          <option name="PATTERN" value="zadania_dom.plik_CSV_zapis_odczyt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tab_Privata_protected" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="struktury_danych.stos_lista.Tab_Privata_protected" />
+    <configuration name="Danezlozone" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadania_dom.plik_CSV_zapis_odczyt.Danezlozone" />
       <module name="ProgramowaniePodstawowe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="struktury_danych.stos_lista.*" />
+          <option name="PATTERN" value="zadania_dom.plik_CSV_zapis_odczyt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +117,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stosTablica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="struktury_danych.stosTablica" />
+    <configuration name="DwukierunLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="struktury_danych.dwukierunkowa_lista.DwukierunLista" />
       <module name="ProgramowaniePodstawowe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="struktury_danych.*" />
+          <option name="PATTERN" value="struktury_danych.dwukierunkowa_lista.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Plik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadania_dom.plik_CSV_zapis_odczyt.Plik" />
+      <module name="ProgramowaniePodstawowe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadania_dom.plik_CSV_zapis_odczyt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zadanie1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadania_dom.plik_CSV_zapis_odczyt.zadanie1.Zadanie1Main" />
+      <module name="ProgramowaniePodstawowe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zadania_dom.plik_CSV_zapis_odczyt.zadanie1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,9 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StosTablica" />
-        <item itemvalue="Application.stosTablica" />
-        <item itemvalue="Application.Tab_Privata_protected" />
+        <item itemvalue="Application.BazaDanychMain" />
+        <item itemvalue="Application.Zadanie1Main" />
+        <item itemvalue="Application.DwukierunLista" />
+        <item itemvalue="Application.Danezlozone" />
+        <item itemvalue="Application.Plik" />
       </list>
     </recent_temporary>
   </component>
@@ -102,56 +177,232 @@
       <option name="presentableId" value="Default" />
       <updated>1583594431537</updated>
     </task>
+    <task id="LOCAL-00001" summary="ProgramowaniePodstawowe">
+      <created>1583654324086</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583654324086</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ProgramowaniePodstawowe" />
+    <option name="LAST_COMMIT_MESSAGE" value="ProgramowaniePodstawowe" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="647" y="318" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583650751687">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="585" y="197" key="#Inspections" timestamp="1587569732782">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="197" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1587569732782" />
+    <state x="985" y="161" key="#Plugins" timestamp="1587382845424">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="985" y="161" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1587382845424" />
+    <state x="1131" y="157" key="#ProgramowaniePodstawowe.jar" timestamp="1587475289706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1131" y="157" key="#ProgramowaniePodstawowe.jar/0.0.1920.1040@0.0.1920.1040" timestamp="1587475289706" />
+    <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583917242824">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="413" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583917242824" />
+    <state x="729" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587652850694">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="729" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587652850694" />
+    <state x="734" y="137" key="#com.intellij.ide.util.MemberChooser" timestamp="1587630882908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="612" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1583665062870" />
+    <state x="734" y="137" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587630882908" />
+    <state x="1118" y="339" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1587478002918">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1118" y="339" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587478002918" />
+    <state x="776" y="385" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583685773790">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="647" y="318" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1600.860@0.0.1600.860" timestamp="1583650751687" />
-    <state x="554" y="113" key="CommitChangelistDialog2" timestamp="1583594574763">
+    <state x="776" y="385" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583685773790" />
+    <state x="742" y="415" width="435" height="216" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1587573474423">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="742" y="415" width="435" height="216" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1587573474423" />
+    <state x="462" y="47" key="CommitChangelistDialog2" timestamp="1583654321244">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="462" y="47" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1583654321244" />
     <state x="554" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583594574763" />
-    <state width="1555" height="222" key="GridCell.Tab.0.bottom" timestamp="1583650790614">
+    <state width="391" height="466" key="DebuggerActiveHint" timestamp="1584098994690">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="391" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1584098994690" />
+    <state x="739" y="273" key="FileChooserDialogImpl" timestamp="1587467142984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="273" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587467142984" />
+    <state width="974" height="380" key="GridCell.Tab.0.bottom" timestamp="1587733265487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1555" height="275" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583675033171" />
+    <state width="974" height="380" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587733265487" />
+    <state width="974" height="380" key="GridCell.Tab.0.center" timestamp="1587733265487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1555" height="275" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583675033171" />
+    <state width="974" height="380" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587733265487" />
+    <state width="974" height="380" key="GridCell.Tab.0.left" timestamp="1587733265487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1555" height="275" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583675033171" />
+    <state width="974" height="380" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587733265487" />
+    <state width="974" height="380" key="GridCell.Tab.0.right" timestamp="1587733265487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1555" height="275" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583675033171" />
+    <state width="974" height="380" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587733265487" />
+    <state width="974" height="380" key="GridCell.Tab.1.bottom" timestamp="1587733265487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1555" height="275" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583675033172" />
+    <state width="974" height="380" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587733265487" />
+    <state width="974" height="380" key="GridCell.Tab.1.center" timestamp="1587733265487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1555" height="275" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1583675033172" />
+    <state width="974" height="380" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587733265487" />
+    <state width="974" height="380" key="GridCell.Tab.1.left" timestamp="1587733265487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1555" height="275" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1583675033172" />
+    <state width="974" height="380" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587733265487" />
+    <state width="974" height="380" key="GridCell.Tab.1.right" timestamp="1587733265487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1555" height="275" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1583675033172" />
+    <state width="974" height="380" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587733265487" />
+    <state x="982" y="261" key="IDE.errors.dialog" timestamp="1587566709938">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="982" y="261" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587566709938" />
+    <state x="868" y="124" key="SettingsEditor" timestamp="1587801249377">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="868" y="124" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587801249377" />
+    <state x="459" y="208" key="Vcs.Push.Dialog.v2" timestamp="1583661546405">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1555" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583650790614" />
-    <state width="1875" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583649934459" />
-    <state width="1555" height="222" key="GridCell.Tab.0.center" timestamp="1583650790613">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1555" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583650790613" />
-    <state width="1875" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583649934459" />
-    <state width="1555" height="222" key="GridCell.Tab.0.left" timestamp="1583650790613">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1555" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583650790613" />
-    <state width="1875" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583649934459" />
-    <state width="1555" height="222" key="GridCell.Tab.0.right" timestamp="1583650790613">
-      <screen x="0" y="0" width="1600" height="860" />
-    </state>
-    <state width="1555" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583650790613" />
-    <state width="1875" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583649934459" />
-    <state width="1875" height="347" key="GridCell.Tab.1.bottom" timestamp="1583649934460">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1875" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583649934460" />
-    <state width="1875" height="347" key="GridCell.Tab.1.center" timestamp="1583649934460">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1875" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583649934460" />
-    <state width="1875" height="347" key="GridCell.Tab.1.left" timestamp="1583649934460">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1875" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583649934460" />
-    <state width="1875" height="347" key="GridCell.Tab.1.right" timestamp="1583649934460">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1875" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583649934460" />
-    <state x="551" y="252" key="Vcs.Push.Dialog.v2" timestamp="1583595049535">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
+    <state x="459" y="208" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1583661546405" />
     <state x="551" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583595049535" />
+    <state x="457" y="118" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583658360510">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="457" y="118" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1600.860@0.0.1600.860" timestamp="1583658360510" />
+    <state x="450" y="200" width="849" height="604" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583688067264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="375" y="165" width="849" height="604" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1600.860@0.0.1600.860" timestamp="1583663531117" />
+    <state x="450" y="200" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1583688067264" />
+    <state x="635" y="239" key="extract.method.dialog" timestamp="1584096706671">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="529" y="198" key="extract.method.dialog/0.0.1600.860@0.0.1600.860" timestamp="1583672528655" />
+    <state x="635" y="239" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584096706671" />
+    <state x="373" y="280" key="refactoring.ChangeSignatureDialog" timestamp="1587639732454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="373" y="280" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587639732454" />
+    <state x="456" y="195" key="run.anything.popup" timestamp="1583658364753">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="195" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1583658364753" />
+    <state x="782" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1587465842319">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="782" y="257" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587465842319" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zadania_dom/ZadanieB.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zadania_dom/ZadanieA.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/struktury_danych/kolejka_lista/KolejkaLista.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/struktury_danych/kolejka_lista/KolejkaLista.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/struktury_danych/dwukierunkowa_lista/DwukierunLista.java</url>
+          <line>118</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/struktury_danych/dwukierunkowa_lista/DwukierunLista.java</url>
+          <line>147</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/struktury_danych/dwukierunkowa_lista/DwukierunLista.java</url>
+          <line>122</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/struktury_danych/stos_lista/StosLista.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/struktury_danych/kolejka_lista/KolejkaLista.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zadania_dom/plik_CSV_zapis_odczyt/BazaDanychMain.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zadania_dom/plik_CSV_zapis_odczyt/BazaDanychMain.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zadania_dom/plik_CSV_zapis_odczyt/BazaDanychMain.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((DwukierunListaElem)this).value" custom="struktury_danych.dwukierunkowa_lista.DwukierunListaElem" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ProgramowaniePodstawowe$StosLista.ic" NAME="StosLista Coverage Results" MODIFIED="1586504631301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>struktury_danych.stos_lista.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ProgramowaniePodstawowe$BazaDanych.ic" NAME="BazaDanych Coverage Results" MODIFIED="1587562096867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>zadania_dom.plik_CSV_zapis_odczyt.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ProgramowaniePodstawowe$ProbyA.ic" NAME="ProbyA Coverage Results" MODIFIED="1584263580156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Zadania_dom.*</FILTER>
+    </SUITE>
   </component>
 </project>

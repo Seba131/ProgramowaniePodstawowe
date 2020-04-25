@@ -7,7 +7,7 @@ public class Tablice {
         System.out.println(tab.length - 1 + " tab.length -1" + " i " + "tab.length bez -1 " + tab.length);
         for (int i = tab.length - 1; i >= 0; i--) {
             if (i % 2 == 0) {
-                System.out.print(tab[i] + ",");
+                System.out.print(tab[i] + " , ");
             }
         }
         System.out.println();
@@ -43,6 +43,7 @@ public class Tablice {
         tablice.LiczbyOdKoncaNaParzystychIndeksach(tab);
         tablice.LiczbyPodzienePrzezTrzy(tab);
         tablice.LiczbySumaLiczb(tab);
+
     }
 
 
