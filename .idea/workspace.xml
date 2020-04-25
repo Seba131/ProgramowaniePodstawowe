@@ -232,11 +232,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="742" y="415" width="435" height="216" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1587573474423" />
-    <state x="573" y="77" key="CommitChangelistDialog2" timestamp="1587824541093">
+    <state x="573" y="77" key="CommitChangelistDialog2" timestamp="1587824855124">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="462" y="47" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1583654321244" />
-    <state x="573" y="77" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587824541093" />
+    <state x="573" y="77" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1587824855124" />
     <state width="391" height="466" key="DebuggerActiveHint" timestamp="1584098994690">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -249,26 +249,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="273" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587806846199" />
-    <state width="974" height="380" key="GridCell.Tab.0.bottom" timestamp="1587733265487">
+    <state width="1875" height="294" key="GridCell.Tab.0.bottom" timestamp="1587824792637">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1555" height="275" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1583675033171" />
-    <state width="974" height="380" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587733265487" />
-    <state width="974" height="380" key="GridCell.Tab.0.center" timestamp="1587733265487">
+    <state width="1875" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587824792637" />
+    <state width="1875" height="294" key="GridCell.Tab.0.center" timestamp="1587824792637">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1555" height="275" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1583675033171" />
-    <state width="974" height="380" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587733265487" />
-    <state width="974" height="380" key="GridCell.Tab.0.left" timestamp="1587733265487">
+    <state width="1875" height="294" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587824792637" />
+    <state width="1875" height="294" key="GridCell.Tab.0.left" timestamp="1587824792636">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1555" height="275" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1583675033171" />
-    <state width="974" height="380" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587733265487" />
-    <state width="974" height="380" key="GridCell.Tab.0.right" timestamp="1587733265487">
+    <state width="1875" height="294" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587824792636" />
+    <state width="1875" height="294" key="GridCell.Tab.0.right" timestamp="1587824792637">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1555" height="275" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1583675033171" />
-    <state width="974" height="380" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587733265487" />
+    <state width="1875" height="294" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587824792637" />
     <state width="974" height="380" key="GridCell.Tab.1.bottom" timestamp="1587733265487">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -293,6 +293,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="982" y="261" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587566709938" />
+    <state x="665" y="222" key="RollbackChangesDialog" timestamp="1587824939761">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587824939761" />
     <state x="868" y="124" key="SettingsEditor" timestamp="1587801249377">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -328,10 +332,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1187" y="389" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587807015766" />
-    <state x="1167" y="428" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1587809137905">
+    <state x="1167" y="428" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1587824887080">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1167" y="428" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587809137905" />
+    <state x="1167" y="428" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587824887080" />
+    <state x="736" y="414" key="git4idea.ui.GitResetDialog" timestamp="1587824907725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="414" key="git4idea.ui.GitResetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587824907725" />
     <state x="373" y="280" key="refactoring.ChangeSignatureDialog" timestamp="1587639732454">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
